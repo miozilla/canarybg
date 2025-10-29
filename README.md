@@ -9,42 +9,42 @@ canarybg : Fortune-App # Manage Deployments by Kubernetes Engine # Canary # Blue
 -  Update deployments and test Canary & Blue-Green deployment styles
 
 
-# Transformers
+# Managing Deployments Using Kubernetes Engine - Canary & Blue-Green Deployment
 
-![transformer001.png](./media/transformer001.png)
+![canarybg001.png](./media/canarybg001.png)
 
-![transformer002.png](./media/transformer002.png)
+![canarybg002.png](./media/canarybg002.png)
 
-![transformer003.png](./media/transformer003.png)
+![canarybg003.png](./media/canarybg003.png)
 
-![transformer004.png](./media/transformer004.png)
+![canarybg004.png](./media/canarybg004.png)
 
-![transformer005.png](./media/transformer005.png)
+![canarybg005.png](./media/canarybg005.png)
 
-![transformer006.png](./media/transformer006.png)
+![canarybg006.png](./media/canarybg006.png)
 
-![transformer007.png](./media/transformer007.png)
+![canarybg007.png](./media/canarybg007.png)
 
-![transformer008.png](./media/transformer008.png)
+![canarybg008.png](./media/canarybg008.png)
 
-![transformer009.png](./media/transformer009.png)
+![canarybg009.png](./media/canarybg009.png)
 
-![transformer010.png](./media/transformer010.png)
+![canarybg010.png](./media/canarybg010.png)
 
-![transformer011.png](./media/transformer011.png)
+![canarybg011.png](./media/canarybg011.png)
 
-![transformer012.png](./media/transformer012.png)
+![canarybg012.png](./media/canarybg012.png)
 
-![transformer013.png](./media/transformer013.png)
+![canarybg013.png](./media/canarybg013.png)
 
-![transformer014.png](./media/transformer014.png)
+![canarybg014.png](./media/canarybg014.png)
 
-![transformer015.png](./media/transformer015.png)
+![canarybg015.png](./media/canarybg015.png)
 
-![transformer016.png](./media/transformer016.png)
+![canarybg016.png](./media/canarybg016.png)
 
-![transformer017.png](./media/transformer017.png)
+![canarybg017.png](./media/canarybg017.png)
 
-![transformer018.png](./media/transformer018.png)
+![canarybg018.png](./media/canarybg018.png)
 
 
