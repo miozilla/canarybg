@@ -47,4 +47,10 @@ canarybg : Fortune-App # Manage Deployments by Kubernetes Engine # Canary # Blue
 
 ![canarybg018.png](./media/canarybg018.png)
 
+![canarybg019.png](./media/canarybg019.png)
+
+![canarybg020.png](./media/canarybg020.png)
+
+![canarybg021.png](./media/canarybg021.png)
+
 
